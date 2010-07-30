@@ -3,6 +3,8 @@
 Dieses Repository enthält Xcode-Projektdateien zum iOS-Workshop.
 Bitte neue Projekte hier eintragen und eine kurze Bechreibung anfügen.
 
-### Project One ###
+### Pro.key ###
 
-Short description of project one.
+Keynote-Thema für die Voträge.
+Farben und Schriften wurden durch die WWDC-Vorträge inspiriert.
+Zum benutzen wird die Schrift 'Myriad Pro' wird benötigt.
